@@ -2,9 +2,9 @@
 
 LIVE DEMO - https://repl.it/@TaroSerigano/HangMan-#main.py
 
-![hang](img/hangman1.img)
+![hang](https://github.com/taroserigano/hangman-python/blob/main/img/hangman1.jpg)
 
-![hang](img/hangman2.img)
+![hang](https://github.com/taroserigano/hangman-python/blob/main/img/hangman2.jpg)
 
 
 
